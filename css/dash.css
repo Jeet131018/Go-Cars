@@ -1,0 +1,27 @@
+.carcontainer{
+    margin: 1%;
+    float: left;
+    width: 100%;
+}
+
+.card{
+    display: inline-flex;
+    margin-inline: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px black;
+}
+
+.heading{
+    background: black;
+    align-items: center;
+}
+.heading h1{
+    text-align: center;
+    font-size: 300%;
+    font-weight: bolder;
+    color: rgb(214, 175, 2);
+    margin: 2%;
+    padding: 2%;
+}
